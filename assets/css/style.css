@@ -65,7 +65,6 @@ h1 {
 }
 
 
-
 /* ------ HEADER ------ */
 
 header {
@@ -74,7 +73,6 @@ header {
     background-color: #FFF;
     border-bottom: 2px solid #cccccc;
 }
-
 
 
 /* ------ HEADER LOGO ------ */
@@ -94,7 +92,6 @@ header .logo a {
 header .logo h1 {
     color: #fff;
 }
-
 
 
 /* ------ HEADER MENU ------ */
@@ -117,10 +114,9 @@ header .menu li a {
 }
 
 header .menu li a:hover {
-    color:#4aaaa5;
+    color: #4aaaa5;
     text-decoration: underline;
 }
-
 
 
 /* ------ CONTAINER ------ */
@@ -132,7 +128,6 @@ div#container {
     min-height: calc(100vh - 249px);
     margin-bottom: 30px;
 }
-
 
 
 /* ------ MAIN CONTENT ------ */
@@ -152,7 +147,6 @@ div#container {
 }
 
 
-
 /* ------ MAIN CONTENT - ABOUT ------ */
 
 .main-content img.profile-image {
@@ -161,7 +155,6 @@ div#container {
     margin: 0 10px 10px 0;
     width: 185px;
 }
-
 
 
 /* ------ MAIN CONTENT - CONTACT ------ */
@@ -206,7 +199,6 @@ div#container {
 }
 
 
-
 /* ------ MAIN CONTENT - PORTFOLIO ------ */
 
 .main-content .portfolio .portfolio-item {
@@ -224,11 +216,11 @@ div#container {
     position: absolute;
     top: 0;
     left: 0;
-    filter:grayscale(100%);
+    filter: grayscale(100%);
 }
 
 .main-content .portfolio .portfolio-item img:hover {
-    filter:grayscale(0%);
+    filter: grayscale(0%);
 }
 
 .main-content .portfolio .portfolio-item span.item-title {
@@ -260,11 +252,10 @@ div#container {
 }
 
 .sidebar img {
-    width: 65px;
+    width: 69px;
     height: auto;
     margin-top: 10px;
 }
-
 
 
 /* ------ FOOTER ------ */
