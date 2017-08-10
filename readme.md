@@ -1,7 +1,7 @@
 # Basic Portfolio assignment
 
 ### Links
-Basic portfolio on [Github Pages](https://www.google.com)
+Basic portfolio on [Github Pages](https://jeffreylowy.github.io)
 
 Easier homework: [Github Pages](https://jeffreylowy.github.io/HW-Wireframe) | [Repository](https://github.com/jeffreylowy/HW-Wireframe)
 
