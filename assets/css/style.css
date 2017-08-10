@@ -225,6 +225,7 @@ div#container {
 
 .main-content .portfolio .portfolio-item span.item-title {
     position: absolute;
+    text-align: center;
     top: 145px;
     left: 0;
     width: 100%;
@@ -252,7 +253,7 @@ div#container {
 }
 
 .sidebar img {
-    width: 69px;
+    width: 65px;
     height: auto;
     margin-top: 10px;
 }
