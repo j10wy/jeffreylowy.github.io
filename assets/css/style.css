@@ -252,12 +252,21 @@ div#container {
     padding-bottom: 20px;
 }
 
-.sidebar img {
-    width: 65px;
+.sidebar .social-icon {
+    width: 62px;
     height: auto;
     margin-top: 10px;
+    margin-right:5px;
 }
 
+.sidebar .social-icon:last-child {
+    margin-right: 0;
+}
+
+.sidebar .social-icon img {
+    width: 62px;
+    height: auto;
+}
 
 /* ------ FOOTER ------ */
 
