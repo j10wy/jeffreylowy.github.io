@@ -1,5 +1,9 @@
 # Basic Portfolio assignment
 
+### Links
+Basic portfolio on [Github Pages](https://www.google.com)
+Easier homework: [Github Pages](https://www.google.com) | [Repository](https://github.com/jeffreylowy/HW-Wireframe)
+
 ### Template
 
 #### HTML
