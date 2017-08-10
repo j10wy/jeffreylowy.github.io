@@ -2,7 +2,8 @@
 
 ### Links
 Basic portfolio on [Github Pages](https://www.google.com)
-Easier homework: [Github Pages](https://www.google.com) | [Repository](https://github.com/jeffreylowy/HW-Wireframe)
+
+Easier homework: [Github Pages](https://jeffreylowy.github.io/HW-Wireframe) | [Repository](https://github.com/jeffreylowy/HW-Wireframe)
 
 ### Template
 
